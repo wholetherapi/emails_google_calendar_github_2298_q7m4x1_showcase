@@ -1,0 +1,10 @@
+{
+  "project_id": "glacier-melt-lstm",
+  "title": "Glacier Melt-Rate Forecasting with Seasonal LSTMs",
+  "venue": "Coastal Systems Conference 2025",
+  "authors": [
+    "Sofia Lindgren",
+    "Peter Nakamura"
+  ],
+  "summary": "Seasonal LSTM ensemble for glacier melt-rate forecasting."
+}
