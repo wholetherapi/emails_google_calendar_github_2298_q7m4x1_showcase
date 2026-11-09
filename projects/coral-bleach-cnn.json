@@ -1,0 +1,11 @@
+{
+  "project_id": "coral-bleach-cnn",
+  "title": "Coral Bleach Risk Estimation from Reef Imagery",
+  "venue": "Lagoon Systems Symposium 2025",
+  "authors": [
+    "Priya Raman",
+    "Anders Holm"
+  ],
+  "summary": "CNN ensemble producing reef-scale bleaching risk maps.",
+  "code_url": "https://github.com/wholetherapi/emails_google_calendar_github_2298_q7m4x1_showcase/tree/main/code/coral-bleach-cnn"
+}

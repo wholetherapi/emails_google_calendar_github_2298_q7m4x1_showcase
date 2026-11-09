@@ -1,0 +1,3 @@
+seed: 13
+epochs: 20
+batch_size: 16
