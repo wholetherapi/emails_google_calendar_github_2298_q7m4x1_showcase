@@ -1,0 +1,11 @@
+{
+  "project_id": "tidepool-forecast",
+  "title": "Tidepool Forecast: Multi-Horizon Water-Quality Prediction",
+  "venue": "Coastal Systems Conference 2025",
+  "authors": [
+    "Jonas Falk",
+    "Nadia Belkacem"
+  ],
+  "summary": "Multi-horizon forecasting model for tidepool water-quality indicators.",
+  "code_url": "https://github.com/wholetherapi/emails_google_calendar_github_2298_q7m4x1_showcase/tree/main/code/tidepool-forecast"
+}
