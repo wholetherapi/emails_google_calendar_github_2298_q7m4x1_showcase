@@ -1,11 +1,11 @@
 {
   "project_id": "cloudband-detector",
   "title": "Cloudband Detector: Weakly Supervised Marine Cloud Regimes",
-  "venue": "Coastal Systems Conference 2025",
+  "venue": "",
   "authors": [
     "Elena Marsh",
     "Tomas Varga"
   ],
-  "summary": "Weakly supervised detector for marine cloud-band regimes in geostationary imagery.",
-  "code_url": "https://github.com/wholetherapi/emails_google_calendar_github_2298_q7m4x1_showcase/tree/main/code/cloudband-detector"
+  "summary": "Provisional card created ahead of the decision. Venue and links to be confirmed.",
+  "code_url": "https://github.com/mirror-atlas/cloudband-detector"
 }
